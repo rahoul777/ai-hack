@@ -1,0 +1,64 @@
+AI-Powered Smart Workforce Allocation & Timesheet Optimizer
+An AI-driven platform that intelligently automates workforce allocation (matching associates to projects) and timesheet management.
+It leverages AI/ML + generative AI to:
+
+Recommend best-fit associates based on skills, availability, and project requirements.
+
+Auto-suggest timesheet entries from calendar meetings, code commits, task trackers (e.g., JIRA), and emails.
+
+Detect anomalies in timesheet (overbooking, under-reporting, compliance issues).
+
+Provide real-time dashboards for managers on utilization, bench, and predictive resourcing needs.
+
+Challenge/Business Opportunity & Scalability
+
+Challenges Today:
+
+Manual timesheet entry → errors, delays, and low compliance.
+
+Sub-optimal allocation → wrong skill match, higher bench cost.
+
+Lack of predictive view for upcoming resourcing needs.
+
+Business Opportunity:
+
+Save thousands of hours across TCS by automating timesheet capture.
+
+Improve resource utilization rate by 10–15% with AI allocation.
+
+Can be scaled across TCS internally and also offered as a workforce optimization product to large clients.
+
+4. Novelty, Benefits & Risks
+
+Novelty:
+
+Combines generative AI (LLM) for smart timesheet auto-filling with predictive AI (ML models) for workforce forecasting.
+
+Cross-integration with enterprise tools (Ultimatix, JIRA, Outlook, GitHub).
+
+Personalized nudges → “You worked 6 hrs on Project A today, do you want to auto-fill timesheet?”
+
+Benefits:
+
+30–40% reduction in manual effort.
+
+Increased compliance & accuracy.
+
+Higher utilization and reduced bench cost.
+
+Risks:
+
+Timesheet privacy → mitigate via access control & encryption.
+
+Resistance to change from employees → mitigate via human-in-loop approval.
+
+5. Responsible AI Principles Adherence
+
+Security: End-to-end encrypted data, integration with TCS SSO.
+
+Fairness: Allocation recommendations unbiased across geographies, genders, or roles.
+
+Privacy: No personal productivity micromanagement, only project-level insights.
+
+Legal Compliance: Adheres to client contract terms, local labor law compliance for timesheet regulations.
+
